@@ -84,8 +84,8 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 # CERTIFICATIONS
 
-- Security+
-- Cetified Cisco Network Associate (CCNA)
+- Security+ (in progress)
+- Cetified Cisco Network Associate (CCNA) (in progress)
 
 
 
