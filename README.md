@@ -45,6 +45,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 ### --- Personal Projects ---
 - <a href="https://github.com/mtwbusiness909/Active-Directory-Homelab-MTW"> Active Directory Lab </a>
+- <a href="https://github.com/mtwbusiness909/Active-Directory-Homelab-MTW"> Wireshark Lab </a>
 
 ### --- University Projects ---
 - <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECT"> CSE 3232 - Software Requirement Analysis </a>
